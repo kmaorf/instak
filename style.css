@@ -1,0 +1,159 @@
+
+*{
+    font-family:monospace ;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(199, 233, 222);
+       
+}
+  
+#titulo1{
+    color: rgb(87, 87, 87);
+   font-size: 40px ;
+}
+
+#titulo2{
+    color:rgb(87, 87, 87);
+    font-size: 20px;
+}
+
+.caixa{
+    width:100px;
+    height:380px;
+    text-align: center;
+    position:absolute;
+    left:50%;
+    top:40%;
+    margin:-100px 0 0 -150px;
+    background-color: #ffffff;
+}
+
+.font1{
+    font-weight: bold;
+    background-color: #ffffff;
+}
+.font2{
+    font-weight: bold;
+    font-size: 10px;
+    background-color: #ffffff;
+}
+
+.input1{
+    width:300px;
+ 
+}
+
+.input2{
+    width:300px;
+    height: 150px;
+   
+}
+
+.noye{
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.instalogin{
+    width:300px;
+    height:400px;
+    text-align: center;
+    position:absolute;
+    left:50%;
+    top: 30%;
+    margin:-100px 0 0 -150px;
+    background-color: #ffffff;
+}
+
+.imgi{
+    width: 200px;
+    height: 95px;
+    background-color: #ffffff;
+}
+
+.imgf{
+    width: 10px;
+    height: 10px;
+    background-color: #ffffff;
+    position:relative;
+    bottom: -40px;
+    
+
+}
+
+.iniciarface{
+    font-family: Arial;
+    font-size: 15px;
+    color: #0000CD;
+    background-color: #ffffff;
+    position:relative;
+    bottom: -40px;
+}
+
+.input3{
+    width:250px;
+    height: 28px;
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 0.5px;
+    border-color: rgb(194, 191, 191);
+    background: #464242;
+    background-color: #ffffff;
+    
+}
+
+.input4{
+    width:250px;
+    height: 28px;
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 0.3px;
+    border-color: rgb(194, 191, 191);
+    background: #464242;
+    background-color: #ffffff;
+    position:relative;
+    bottom: -5px;
+
+    
+
+}
+::placeholder {
+   text-align: justify;
+   color: #888484;
+  }
+
+  .instaentrar{
+      width: 255px;
+      height: 27px;
+      border-radius: 5px;
+      font-family: Arial;
+      background-color: #ffffff;
+      background: #0095F6;
+      color: #ffffff;
+      position:relative;
+    bottom: -13px;
+    border-color: #0095F6;
+    font-size: 15px;
+
+  }
+
+  .ou1{
+      opacity: 0.099;
+      position:relative;
+      bottom: -8px;
+      left: 4px;
+      font-size: 20px;
+      background-color: #ffffff;
+     
+
+  }
+  
+ .psw{
+     color: #3f3c3c;
+     font-size: 11px;
+     position:relative;
+      bottom: -15px;
+      background-color: #ffffff;
+ }
+ 
+ 
